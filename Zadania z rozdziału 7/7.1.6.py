@@ -6,3 +6,8 @@
 # XXXXXXXXXX
 # XXXXXXXXXX
 
+wysokosc = int(input('Podaj wysokość prostokąta: '))
+szerokosc = int(input('Podaj szerokość prostokąta: '))
+
+for x in range(wysokosc):
+    print('X' * szerokosc)

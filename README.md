@@ -15,9 +15,8 @@ Repozytorium zawiera **kompletne rozwiązania zadań ze zbioru PUT** napisane w 
 
 📂 **Struktura folderów i plików**:
 - Każdy folder zawiera:
-  - Kod źródłowy w języku C++ (`.cpp`).
-  - Arkusz
-  - Pliki pomocnicze (jeśli dotyczy).
+  - Kod źródłowy w języku Python (`.py`).
+  - W kodzie źródłowym znajdują się polecenia do każdego z zadań.
 
 ---
 

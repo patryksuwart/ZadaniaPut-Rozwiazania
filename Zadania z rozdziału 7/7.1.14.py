@@ -1,5 +1,6 @@
 # ZADANIE 7.1.14
-# Napisz program drukujący na ekranie kwadrat. Długość boku kwadratu wczytujemy z klawiatury. Poniższy kwadrat ma bak długości 4.
+# Napisz program drukujący na ekranie kwadrat. Długość boku kwadratu wczytujemy z klawiatury.
+# Poniższy kwadrat ma bak długości 4.
 
 # KKKK
 # KKKK
